@@ -1,16 +1,12 @@
 ## Overview
-<img src='image/finalDemo.gif' width="500"/>
+<div align='center'>
+    <img src='image/finalDemo.gif' width='50%' />
+</div>
 
 
-This repo is the Final Project for EECS 545, University Michigan, Ann Arbor, Spring 2021 term. The project intends to train a tree chopping agent in the Minecraft environment using Deep Q-leanring from demonstration. The project is highly inspired from the competition MineRL, you could find more details about the competition [here](https://minerl.io/docs/).
 
-## Table of contents
------
-  * [Requirements](#requirements)
-  * [Dataset](#dataset)
-  * [Train](#train)
-  * [Evaluate](#evaluate)
-------
+
+Minecraft, a globally popular sandbox video game, provides a dynamic, block-based universe where players build, explore, and interact with a variety of entities and landscapes. The project intends to train a tree chopping agent in the Minecraft environment using Deep Q-leanring from demonstration. 
 
 ## Requirements
 
@@ -106,7 +102,11 @@ python3 -u evaluate.py \
 ```
 The results of different architecture is shown in the table:
 
-<img src='image/result.png' width="600"/>
+<div align='center'>
+    <img src='image/result.png' width='50%' />
+</div>
+
+
 
 
 
